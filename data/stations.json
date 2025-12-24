@@ -1,0 +1,12 @@
+{
+  "Bole": {"MeskelSquare": 5, "Medhanialem": 3},
+  "MeskelSquare": {"Bole": 5, "Piazza": 4, "Lideta": 6},
+  "Medhanialem": {"Bole": 3, "Lideta": 5},
+  "Piazza": {"MeskelSquare": 4, "Lideta": 2},
+  "Lideta": {"Medhanialem": 5, "MeskelSquare": 6, "Piazza": 2},
+  "Kazanchis": {"MeskelSquare": 3, "Bole": 6},
+  "Gofa": {"Lideta": 4, "MeskelSquare": 5},
+  "Merkato": {"Piazza": 3, "Lideta": 4},
+  "AratKilo": {"Merkato": 2, "MeskelSquare": 3},
+  "PiassaStation": {"Piazza": 2, "AratKilo": 3}
+}
